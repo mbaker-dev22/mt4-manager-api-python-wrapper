@@ -10,4 +10,4 @@ Please use test.py to do testing. For security, I have changed the MT4 server IP
 With PyMT4ManagerAPI, you can develop MT4 tools with python.
 
 **Important Notice**
-This repo requires the latest MT$ version, if you don’t have contact us here for further support [<telegram link>](https://t.me/stevenmace)https://t.me/stevenmace
+This repo requires the latest MT4 version, if you don’t have contact us here for further support [<telegram link>](https://t.me/stevenmace)https://t.me/stevenmace
